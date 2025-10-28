@@ -178,8 +178,8 @@ To contribute:
 ---
 
 # Core Libraries
-pandas==2.2.2
-numpy==1.26.4
+* pandas==2.2.2
+* numpy==1.26.4
 
 # Visualization
 matplotlib==3.9.2
