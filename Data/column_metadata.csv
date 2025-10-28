@@ -1,0 +1,21 @@
+,Category,Data_Type,Role
+Hours_Studied,Academic Factors,Numeric,Feature
+Attendance,Academic Factors,Numeric,Feature
+Parental_Involvement,Family & Socioeconomic Factors,Categorical,Feature
+Access_to_Resources,Family & Socioeconomic Factors,Categorical,Feature
+Extracurricular_Activities,School Environment Factors,Categorical,Feature
+Sleep_Hours,Personal & Behavioral Factors,Numeric,Feature
+Previous_Scores,Academic Factors,Numeric,Feature
+Motivation_Level,Personal & Behavioral Factors,Categorical,Feature
+Internet_Access,Demographic Factors,Categorical,Feature
+Tutoring_Sessions,Academic Factors,Numeric,Feature
+Family_Income,Family & Socioeconomic Factors,Categorical,Feature
+Teacher_Quality,Academic Factors,Categorical,Feature
+School_Type,School Environment Factors,Categorical,Feature
+Peer_Influence,School Environment Factors,Categorical,Feature
+Physical_Activity,Personal & Behavioral Factors,Numeric,Feature
+Learning_Disabilities,Personal & Behavioral Factors,Categorical,Feature
+Parental_Education_Level,Family & Socioeconomic Factors,Ordinal,Feature
+Distance_from_Home,School Environment Factors,Categorical,Feature
+Gender,Demographic Factors,Categorical,Feature
+Exam_Score,Outcome,Numeric,Target
