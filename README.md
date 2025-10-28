@@ -115,8 +115,8 @@ The analysis was conducted in a Jupyter Notebook: `SDG_4_quality_education.ipynb
 ### **1. Clone the Repository**
 
 ```bash
-git clone https://github.com/<your-username>/SDG4_Quality_Education.git
-cd SDG4_Quality_Education
+git clone https://github.com/<your-username>/AI-ML-Assignment-SDG-4-Quality-Education.git
+cd AI-ML-Assignment-SDG-4-Quality-Education
 ```
 
 ### **2. Install Dependencies**
