@@ -182,25 +182,25 @@ To contribute:
 * numpy==1.26.4
 
 # Visualization
-matplotlib==3.9.2
-seaborn==0.13.2
+* matplotlib==3.9.2
+* seaborn==0.13.2
 
 # Machine Learning
-scikit-learn==1.5.2
-xgboost==2.1.1
+* scikit-learn==1.5.2
+* xgboost==2.1.1
 
 # Model Explainability (optional but recommended)
-shap==0.46.0
-lime==0.2.0.1
+* shap==0.46.0
+* lime==0.2.0.1
 
 # Jupyter Environment
-jupyter==1.1.1
-notebook==7.2.2
-ipykernel==6.29.5
+* jupyter==1.1.1
+* notebook==7.2.2
+* ipykernel==6.29.5
 
 # Utility Libraries
-scipy==1.13.1
-statsmodels==0.14.3
+* scipy==1.13.1
+* statsmodels==0.14.3
 
 
 ## 🧑‍💻 Author
